@@ -1,0 +1,11 @@
+{
+  "appId": "statplus.mobile.app",
+  "appName": "statplus",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
